@@ -1,3 +1,8 @@
+Eklavya Pokhriyal - 16014225070, 
+Vikhyaat Pathak - 16014225065 ,
+Nihar Nuthalapati -16014225061 , 
+Saravanan Nadar - 16014225056.
+
 # CellScope (Python) - EV Battery Health Monitor
 
 A Python + PostgreSQL + Tkinter desktop app that tracks EV battery health from charging sessions:
